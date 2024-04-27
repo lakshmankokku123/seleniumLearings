@@ -8,7 +8,7 @@ public class ReverseOfLongString {
 		
 		//stashing test
 
-		String s4="This is Lakshman Kokku , welcome to service now ";
+		String s312="This is Lakshman Kokku , welcome to service now ";
 
 
 		//added by Lakshman
